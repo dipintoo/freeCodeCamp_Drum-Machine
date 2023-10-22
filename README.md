@@ -8,7 +8,7 @@ Sebenarnya kamu bebas menggunakan kombinasi manapun dari HTML, JavaScript, CSS, 
 
 ## User Stories:
 
-1. Saya harus dapat melihat **container** luar dengan ID `drum-machine` yang berisi semua elemen lainnya.
+1. Saya harus dapat melihat **container** dengan ID `drum-machine` yang berisi semua elemen lainnya.
 2. Dalam `#drum-machine`, saya dapat melihat elemen dengan ID `display`
 3. Dalam `#drum-machine`, saya dapat melihat 9 elemen **drum pad** yang dapat **diklik**, masing-masing dengan nama kelas `drum-pad`, ID unik yang menjelaskan **klip audio** yang akan diatur oleh **drum pad**, dan teks dalam elemen tersebut sesuai dengan tombol berikut pada keyboard: **Q, W, E, A, S, D, Z, X, C**. **Drum pad** HARUS seperti urutan ini.
 4. Dalam setiap `.drum-pad`, harus ada elemen **audio** HTML5 yang memiliki atribut **src** yang menunjuk ke **klip audio**, nama kelas `clip`, dan ID yang sesuai dengan teks dalam elemen `.drum-pad` yang menjadi induk (misalnya, id="Q", id="W", id="E", dll.).
