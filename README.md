@@ -6,7 +6,7 @@
 
 Sebenarnya kamu bebas menggunakan kombinasi manapun dari HTML, JavaScript, CSS, Bootstrap, SASS, React, and jQuery. Dalam project [Drum Machine](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-drum-machine) ini, saya coba kombinasi HTML, SASS dan React (JavaScript) 👍🏻.
 
-## User Stories:
+## User Stories
 
 1. Saya harus dapat melihat **container** dengan ID `drum-machine` yang berisi semua elemen lainnya.
 2. Dalam `#drum-machine`, saya dapat melihat elemen dengan ID `display`
