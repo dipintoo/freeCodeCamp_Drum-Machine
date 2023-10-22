@@ -17,15 +17,15 @@ Sebenarnya kamu bebas menggunakan kombinasi manapun dari HTML, JavaScript, CSS, 
 7. Ketika sebuah .drum-pad diaktifkan, tampilan string yang menggambarkan klip audio terkait ditampilkan sebagai teks dalam elemen #display (setiap string harus unik).
 
 Anda dapat menggunakan sampel suara berikut untuk drum machine Anda:
-- Heater 1
-- Heater 2
-- Heater 3
-- Heater 4
-- Clap
-- Open-HH
-- Kick-n'-Hat
-- Kick
-- Closed-HH
+- [Heater 1](https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3)
+- [Heater 2](https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3)
+- [Heater 3](https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3)
+- [Heater 4](https://s3.amazonaws.com/freecodecamp/drums/Heater-4_1.mp3)
+- [Clap](https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3)
+- [Open-HH](https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3)
+- [Kick-n'-Hat](https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3)
+- [Kick](https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3)
+- [Closed-HH](https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3)
 
 ## Coding dan Testing
 
