@@ -16,7 +16,7 @@ Sebenarnya kamu bebas menggunakan kombinasi manapun dari HTML, JavaScript, CSS, 
 6. Ketika saya menekan tombol pemicu yang terkait dengan setiap .drum-pad, klip audio yang terdapat dalam elemen audio anaknya harus diaktifkan (misalnya, menekan tombol Q harus mengaktifkan drum pad yang berisi string Q, menekan tombol W harus mengaktifkan drum pad yang berisi string W, dst.).
 7. Ketika sebuah .drum-pad diaktifkan, tampilan string yang menggambarkan klip audio terkait ditampilkan sebagai teks dalam elemen #display (setiap string harus unik).
 
-Anda dapat menggunakan sampel suara berikut untuk drum machine Anda:
+Anda dapat menggunakan sampel suara berikut untuk drum machine Anda:  
 [Heater 1](https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3)  
 [Heater 2](https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3)  
 [Heater 3](https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3)  
