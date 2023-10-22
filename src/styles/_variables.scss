@@ -1,0 +1,32 @@
+// Font Family
+$font-family: "Rubik", sans-serif;
+$display-font-family: "Orbitron", sans-serif;
+
+// Colors
+$color: white;
+$body-bg-color: orange;
+$container-bg-color: #222;
+$display-bg-color: #333;
+$display-color: #f0ad4e;
+
+// Sizing
+$padWidth: 5.4rem;
+$padHeight: 5rem;
+$radius: 0.6rem;
+$font-weight: 500;
+$pads-font-size: 1.2rem;
+$display-font-weight: 400;
+$display-font-size: 1.6rem;
+$display-width: 100%;
+$display-height: 6.4rem;
+$container-radius: 1rem;
+$container-padding: 1rem;
+$container-width: 28rem;
+
+// Layout
+$display: grid;
+$place: center;
+$container-gap: 1rem;
+$pads-gap: 0.6rem;
+$column: repeat(3, 1fr);
+$body-height: 100dvh;

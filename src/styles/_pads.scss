@@ -1,0 +1,37 @@
+// Pads Container
+.container {
+  max-width: $container-width;
+  padding: $container-padding;
+  @include layout;
+  @include custom-style(
+    $radius: $container-radius,
+    $bg-color: $container-bg-color
+  );
+
+  #display {
+    font-family: $display-font-family;
+    height: $display-height;
+    width: $display-width;
+    font-weight: $display-font-weight;
+    @include layout;
+    @include custom-style(
+      $color: $display-color,
+      $font-size: $display-font-size,
+      $bg-color: $display-bg-color
+    );
+  }
+
+  // Pads
+  .pads {
+    grid-template-columns: $column;
+    @include layout($gap: $pads-gap);
+
+    .drum-pad {
+      width: $padWidth;
+      height: $padHeight;
+      cursor: pointer;
+      @include layout;
+      @include custom-style;
+    }
+  }
+}

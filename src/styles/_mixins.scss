@@ -1,0 +1,19 @@
+// Custom Styles
+@mixin custom-style(
+  $radius: $radius,
+  $font-size: $pads-font-size,
+  $color: $color,
+  $bg-color: $container-bg-color
+) {
+  border-radius: $radius;
+  font-size: $font-size;
+  color: $color;
+  background-color: $bg-color;
+}
+
+// Layout
+@mixin layout($display: $display, $place: $place, $gap: $container-gap) {
+  display: $display;
+  place-items: $place;
+  gap: $gap;
+}
