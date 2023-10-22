@@ -1,6 +1,6 @@
 # [3/5] Drum Machine
 
-**SELAMAT!** kamu sudah berhasil menyelesaikan project pertama [Markdown Previewer](https://github.com/dipintoo/freeCodeCamp_Markdown-Previewer). Sekarang kita lanjut ke project ketiga dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) dari freeCodeCamp!
+**SELAMAT!** kamu sudah berhasil menyelesaikan project kedua [Markdown Previewer](https://github.com/dipintoo/freeCodeCamp_Markdown-Previewer). Sekarang kita lanjut ke project ketiga dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) dari freeCodeCamp!
 
 ## Teknologi yang digunakan
 
