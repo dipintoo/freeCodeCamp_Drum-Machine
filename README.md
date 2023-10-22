@@ -11,9 +11,9 @@ Sebenarnya kamu bebas menggunakan kombinasi manapun dari HTML, JavaScript, CSS, 
 1. Saya harus dapat melihat **container** dengan ID `drum-machine` yang berisi semua elemen lainnya.
 2. Dalam `#drum-machine`, saya dapat melihat elemen dengan ID `display`
 3. Dalam `#drum-machine`, saya dapat melihat 9 elemen **drum pad** yang dapat **diklik**, masing-masing dengan nama kelas `drum-pad`, ID unik yang menjelaskan **klip audio**, dan teks dalam elemen **drum pad** sesuai urutan tombol keyboard berikut ini: **Q, W, E, A, S, D, Z, X, C**.
-4. Dalam setiap `.drum-pad`, harus ada elemen **audio HTML5** yang memiliki atribut **src** yang berisi link **klip audio** dengan nama kelas `clip`, dan ID yang sesuai dengan teks dalam elemen `.drum-pad` (misalnya, id="Q", id="W", id="E", dll.).
+4. Dalam setiap `.drum-pad`, harus ada elemen **audio HTML5** yang memiliki atribut **src** yang berisi link **klip audio** dengan nama kelas `clip`, dan ID yang sesuai dengan teks dalam elemen `.drum-pad` misalnya, id="Q", id="W", id="E", dll.
 5. Ketika saya mengklik elemen `.drum-pad`, **klip audio** yang terdapat dalam elemen **audio** anaknya harus mengeluarkan suara.
-6. Ketika saya menekan tombol terkait dengan setiap `.drum-pad`, **klip audio** yang terdapat dalam elemen **audio** harus diaktifkan (misalnya, menekan tombol Q harus mengaktifkan drum pad yang berisi string Q, menekan tombol W harus mengaktifkan drum pad yang berisi string W, dst.).
+6. Ketika saya menekan tombol terkait dengan setiap `.drum-pad`, **klip audio** yang terdapat dalam elemen **audio** harus diaktifkan misalnya, menekan tombol Q harus mengaktifkan drum pad yang berisi string Q, menekan tombol W harus mengaktifkan drum pad yang berisi string W, dst.
 7. Ketika sebuah `.drum-pad` diaktifkan, tampilan string yang menggambarkan **klip audio terkait** ditampilkan sebagai **teks** dalam elemen `#display` (setiap string harus unik).
 
 Kamu dapat menggunakan link sampel suara berikut untuk drum machine kamu:  
