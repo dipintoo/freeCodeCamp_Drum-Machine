@@ -38,4 +38,4 @@ Setelah lolos semua test, kamu bisa menggunakan Url dari codepen untuk mengisi [
 **Selamat mengembangkan Drum Machine Anda dan bermain dengan suara drum!** 🥁🎶
 
 
-[***Next Project - [4/5] React Calculator >>***](https://github.com/dipintoo/freeCodeCamp_React-Calculator)
+[***Next Project - [4/5] Clock 25 + 5 >>***](https://github.com/dipintoo/freeCodeCamp_Clock-25-5)
